@@ -1,5 +1,5 @@
 {
-  "name": "ProductFinderApp",
+  "name": "AutoLabelAI",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,14 +11,10 @@
   },
   "dependencies": {
     "@react-native/new-app-screen": "0.80.1",
+    "axios": "^1.10.0",
     "react": "19.1.0",
     "react-native": "0.80.1",
-    "react-native-gesture-handler": "^2.27.1",
-    "react-native-image-picker": "^8.2.1",
-    "react-native-reanimated": "^3.18.0",
-    "react-native-safe-area-context": "^5.5.2",
-    "react-native-screens": "^4.13.1",
-    "react-native-vector-icons": "^10.2.0"
+    "react-native-image-picker": "^8.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
